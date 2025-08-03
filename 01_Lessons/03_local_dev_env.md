@@ -7,7 +7,7 @@ A Linux system is easier to work with. You will have the easiest time setting up
 
 **Windows**: You can setup in Windows but you might have issues. You can try Googling for tutorials on this. We strongly recommend that you install Ubuntu as a second OS or at least in a Virtual Machine.
 
-1. ✅ Install Ruby, Git & a Ruby Version Manager (RVM or similar). **[Guide →](http://www.installrails.com)**
+1. ✅ Install **[Ruby →](https://www.theodinproject.com/lessons/ruby-installing-ruby)** & **[Git →](https://www.theodinproject.com/lessons/foundations-setting-up-git) 
 2. ✅ Install Code Editor - your personal preference. We use [Sublime Text](https://www.sublimetext.com) or [VS Code](https://code.visualstudio.com).
 
 Helpful additional tools:
